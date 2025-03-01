@@ -1,0 +1,8 @@
+pymupdf
+pdfplumber
+pytesseract
+Pillow
+spacy
+sqlalchemy
+pymysql
+pypdf
